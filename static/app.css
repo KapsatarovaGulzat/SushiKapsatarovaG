@@ -1,0 +1,82 @@
+
+.tovar {
+    border: 1px solid #D8ECF1;
+    padding: 10px;
+}
+
+.dobavit-vkorzinu {
+    height: 35px;
+    background-color: #28A9CA;
+    border-color: #28A9CA;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.dobavit-vkorzinu:hover {
+    height: 35px;
+    background-color: #277510;
+    border-color: #277510;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.cena {
+    font-size: 26px;
+    font-weight: 700;
+    color: #D8891B;
+}
+
+.tovar-so-skidkoi {
+    border: 1px solid #D8891B;
+}
+
+.tovary {
+    padding: 20px;
+}
+
+.osnovnye-tovay {
+
+}
+
+.privetstvie {
+
+}
+
+.basket-name{
+    font-size: 12px;
+}
+
+.basket-icon{
+    opacity: 0.5;
+}
+
+.desire-name{
+    font-size: 12px;
+}
+
+.desire-icon{
+    opacity: 0.5;
+}
+
+.operation-icons{
+    font-size: 36px;padding-left: 5px;padding-right: 5px;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.operation-icons:hover{
+    font-size: 36px;padding-left: 5px;padding-right: 5px;
+    border-left: 1px solid grey;
+    color:#277510;
+    border:1px solid #277510;
+}
+
+.basket-block{
+    border-right: 1px solid white;
+}

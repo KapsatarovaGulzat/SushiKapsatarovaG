@@ -1,0 +1,33 @@
+.hot-item a{
+    font-weight:1000;
+    font-size:12px;
+}
+.hot-item a:hover{
+    font-weight:1000;
+    font-size:12px;
+    color:#277510;
+}
+
+.hot-item{
+    margin-top:10px;
+}
+
+.hot-item .col-md-3{
+    padding-right: 0;
+}
+.hot-item .col-md-9{
+    padding-left: 0;
+    margin-left: -10;
+}
+
+.hot-block h4{
+    margin-bottom:20px;
+}
+
+.hot-item .cena{
+    color:#277510;
+    font-size:14px;
+}
+.hot-item .opisanie{
+    font-size:12px;
+}
